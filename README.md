@@ -1,10 +1,10 @@
-# Docker docker-node-hello 
+# Docker docker-poc-node
+
+This repo is to make Probe of Concept of node+docker 
+
 
 Based in the repo for this article: [  Lessons from Building a Node App in Docker](http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html).
 
-Contains step-by-step examples used in the article to get the [socket.io chat example](http://socket.io/get-started/chat) running in docker.
-
-Each step has a tag:
 
 ## License
 
