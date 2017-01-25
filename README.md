@@ -10,7 +10,7 @@ Based in the repo for this article: [  Lessons from Building a Node App in Docke
 
 The MIT license:
 
-Copyright (c) 2010-2017 
+Copyright (c) 2010-2017 Utsocial
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
