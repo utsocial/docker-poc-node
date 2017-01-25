@@ -1,4 +1,4 @@
-chat:
+poc:
   build: .
   environment:
     NODE_ENV: production

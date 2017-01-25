@@ -1,5 +1,5 @@
 {
-  "name": "chat",
+  "name": "poc",
   "version": "1.0.0",
   "description": "Repo for this article: [Lessons from Building a Node PoC App in Docker]",
   "main": "index.js",
